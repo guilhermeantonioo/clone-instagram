@@ -81,7 +81,7 @@ main{
 }
 
 section{
-    margin-top: 3%;
+    margin: 3%;
 }
 .title-post{
     display: flex;
@@ -96,10 +96,11 @@ section{
     height: 30px;
     width: 30px;
     margin-left: auto;
-    margin-right: 5%;
+    margin-right: 4%;
     display: flex;
     align-items: center;
     justify-content: center;
+
 }
 .title-post img{
     width: 30px;
@@ -113,8 +114,8 @@ section{
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 90%;
-    width: 90%;
+    height: 85%;
+    width: 85%;
 }
 .react-post{
     display: flex;
@@ -145,6 +146,7 @@ section{
     font-weight: 300;
     margin: 10px;
 }
+
 
 footer{
     position: fixed;
