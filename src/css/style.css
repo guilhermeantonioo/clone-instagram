@@ -62,7 +62,7 @@ main .line-story img{
     font-size: 20px;
     background-color: rgb(0, 195, 255);
     border-radius: 50%;
-    bottom: 86%;
+    bottom: 90%;
     color: #fff;
     left: 55px;
 }
@@ -115,7 +115,7 @@ section{
     align-items: center;
     justify-content: center;
     height: 85%;
-    width: 85%;
+    width: 85vw;
 }
 .react-post{
     display: flex;
@@ -155,7 +155,8 @@ footer{
     height: 60px;
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    gap: 40px;
+    justify-content: center;
     z-index: 1;
     background-color: #fff;
 }
